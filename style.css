@@ -89,3 +89,15 @@ table{
     font-weight: bold;
     
 }
+
+.titulo{
+   display: flex;
+   justify-content: center;
+}
+
+.icones{
+    display: flex;
+    justify-content: center ;
+    margin-top: 1em;
+}
+
